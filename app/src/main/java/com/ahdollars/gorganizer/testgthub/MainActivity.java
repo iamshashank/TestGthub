@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         String s="Android";
         String gta="play";
         String hi="jhg";
+        //enough of this shit
     }
 }
