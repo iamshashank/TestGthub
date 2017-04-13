@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         //jjhjhj
         String s="Android";
         String gta="play";
+        String hi="jhg";
     }
 }
