@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         //nike
         //jjhjhj
         String s="Android";
+        String gta="play";
     }
 }
